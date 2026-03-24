@@ -16,9 +16,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:PROYECTO-SANTACLOTILDE/sihsalus-content-referenceapplication.git</connection>
-        <developerConnection>scm:git:git@github.com:PROYECTO-SANTACLOTILDE/sihsalus-content-referenceapplication.git</developerConnection>
-        <url>https://github.com/PROYECTO-SANTACLOTILDE/sihsalus-content-referenceapplication.git</url>
+        <connection>scm:git:git@github.com:sihsalus/sihsalus-content-referenceapplication.git</connection>
+        <developerConnection>scm:git:git@github.com:sihsalus/sihsalus-content-referenceapplication.git</developerConnection>
+        <url>https://github.com/sihsalus/sihsalus-content-referenceapplication.git</url>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -207,12 +207,12 @@
         <repository>
             <id>github-sihsalus-content</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/PROYECTO-SANTACLOTILDE/sihsalus-content-referenceapplication</url>
+            <url>https://maven.pkg.github.com/sihsalus/sihsalus-content-referenceapplication</url>
         </repository>
         <snapshotRepository>
             <id>github-sihsalus-content</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/PROYECTO-SANTACLOTILDE/sihsalus-content-referenceapplication</url>
+            <url>https://maven.pkg.github.com/sihsalus/sihsalus-content-referenceapplication</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
